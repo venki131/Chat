@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "445484273037",
+    "firebase_url": "https://chat-35fe5.firebaseio.com",
+    "project_id": "chat-35fe5",
+    "storage_bucket": "chat-35fe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445484273037:android:315ea79cf19a33124f41c4",
+        "android_client_info": {
+          "package_name": "com.venkatesh.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445484273037-3m1u3r14u0klh3sargklustfbmeqkp0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venkatesh.chat",
+            "certificate_hash": "fb37e7976f0f337ab6708082ff3b771627426020"
+          }
+        },
+        {
+          "client_id": "445484273037-3m5uijesnr1ju2h8h5hfrrgjvdg9grhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdZS0k4Im9NewtzfW1qs17PEmDtT6cpBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445484273037-3m5uijesnr1ju2h8h5hfrrgjvdg9grhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
